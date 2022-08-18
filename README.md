@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Some frontend things and try to look at typescript**
 
-- 📫 How to reach me **viiktorw77@gmail.com**
+- 📫 How to reach me **wojcikwiktor01@gmail.com**
 
-- ⚡ I'm interested in: **algorithms, new technologies, gaming and some music staff**
+- ⚡ I'm interested in: **algorithms, new technologies, gaming, gym and rock music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
