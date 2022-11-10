@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wiktor / Vikkuu</h1>
 <h3 align="center">IT student and Backend dev with aspirations to be fullstack!</h3>
 
-- 🔭 I’m currently working on [rest-blog-api](https://github.com/Viikuu/rest-blog-api)
+- 🔭 I’m currently working on [QuestionApi](https://github.com/Viikuu/QuestionApi)
+
+Simple Api for creating questions and answering them
 
 - 🌱 I’m currently learning **Some frontend things and try to look at typescript**
 
