@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Wiktor / Vikkuu</h1>
-<h3 align="center">IT student and Backend dev with aspirations to be fullstack!</h3>
+<h3 align="center">IT student and Backend dev trying to keep growing!</h3>
 
 - 🔭 I’m currently working on [QuestionApi](https://github.com/Viikuu/QuestionApi)
 
     Simple Api for creating questions and answering them
 
-- 🌱 I’m currently learning **Some frontend things and try to look at typescript**
+- 🌱 I’m currently learning **typescript and how to write good tests**
 
 - 📫 How to reach me **wojcikwiktor01@gmail.com**
 
-- ⚡ I'm interested in: **algorithms, new technologies, gaming, gym and rock music**
+- ⚡ I'm interested in: **new tech, gaming, gym and music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
