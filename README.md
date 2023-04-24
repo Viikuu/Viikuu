@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Wiktor / Vikkuu</h1>
 <h3 align="center">IT student and Backend dev trying to keep growing!</h3>
 
-- 🔭 I’m currently working on [QuestionApi](https://github.com/Viikuu/QuestionApi)
+- 🔭 I’m currently working on [calendar-app](https://github.com/Viikuu/calendar-app)
 
-    Simple Api for creating questions and answering them
+    Project for my studies in which i use Nest.js + React + MongoDb + Docker to create fully working calendar app. 
 
 - 🌱 I’m currently learning **typescript and how to write good tests**
 
